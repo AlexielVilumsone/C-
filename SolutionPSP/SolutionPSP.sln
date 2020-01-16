@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrjCSaharpWiederholung", "PrjCSaharpWiederholung\PrjCSaharpWiederholung.csproj", "{84845930-A1BF-4DA4-AACE-CF2098F3F274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84845930-A1BF-4DA4-AACE-CF2098F3F274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84845930-A1BF-4DA4-AACE-CF2098F3F274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84845930-A1BF-4DA4-AACE-CF2098F3F274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84845930-A1BF-4DA4-AACE-CF2098F3F274}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6A4D127-2869-4844-989B-32AFF2D5D91F}
+	EndGlobalSection
+EndGlobal
